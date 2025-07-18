@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 const currentDate=new Date();
 const currentDateFormat = `Current Date and Time: ${new Date().toLocaleString('en-US', {
@@ -26,5 +26,5 @@ function formatDateLong(date) {
   return `Formatted Date (Month Day, Year): ${formattedDate}`;
 }
 
-** end of script.js **
+
 
